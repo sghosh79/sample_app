@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'bootstrap-sass', github: 'twbs/bootstrap-sass'
 
+gem 'devise', '~> 3.1.0.rc2'
+
 group :development, :test do
 	gem 'sqlite3'
 end
